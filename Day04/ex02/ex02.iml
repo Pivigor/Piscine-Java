@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ImagesToChar/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ImagesToChar/src/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="beust.jcommander" type="repository">
+        <properties maven-id="com.beust:jcommander:1.82" />
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="diogonunes.JCDP" type="repository">
+        <properties maven-id="com.diogonunes:JCDP:4.0.2" />
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/com/diogonunes/JCDP/4.0.2/JCDP-4.0.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.5.0/jna-5.5.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform/5.5.0/jna-platform-5.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
