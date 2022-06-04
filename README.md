@@ -21,3 +21,5 @@ Java, Maven
 8. Spring
 9. Приложение "чат"
 10. Игра, похожая на Pacman
+
+<img width="248" alt="Screen Shot 2022-06-04 at 6 24 51 PM" src="https://user-images.githubusercontent.com/46578554/172011838-221c3a46-800b-4adf-8558-7f6291af4e9c.png">
